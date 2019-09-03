@@ -5,7 +5,7 @@ Project 0 Getting Started
 
 * NAME: SOMANSHU AGARWAL
   * www.linkedin.com/in/somanshu25
-* Tested on: Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Tested on: Windows 10, i7-6700 @ 3.4GHz 16GB (Moore 100 Lab)
 
 ###
 
