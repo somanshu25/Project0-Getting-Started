@@ -27,7 +27,7 @@ We can see that WebGL is enabled and hardware-accelerated.
 ## Part 2.3:
 Skipping the part as I'm submitting HW0 from the Moore computer4.
 
-# Part3 and Part 4
+## Part3 and Part 4
 After going throuhg all the steps and performing Build and Run in Microsoft Visio 2017, I got the new window with lagenta anf red colors on the screen. Further, on the task bar, I replaed the string "YOUR NAME HERE" with my actual name and the scrrenshotb of the new window is below:
 
 ![](images/part4.PNG)
@@ -37,9 +37,9 @@ After getting introduced to Visio, this part deals with going through Nsight app
 
 ![](images/part5.PNG)
 
-# Part 6
+## Part 6
 This part deals with getting familiar with Debugging interface of Nsight. The part helps to get familiar with introducing the breakppoints and how the analyse the values which have changed after iterating throught the breakpoints and the various conditional conditioms you can further apply for the breakpoints. The screenshot showing CUDA info with Wrap is below:
 
 ![](images/part6.PNG)
 
-FInally I committed and pushed all the changes into the GitHub Reporitory which was forked on my GitHub account.
+Finally I committed and pushed all the changes into the GitHub Reporitory which was forked on my GitHub account.
